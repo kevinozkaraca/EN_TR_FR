@@ -1,1 +1,4 @@
 # LEARN ENGLISH FRENCH AND TURKISH LANGUAGE !
+
+cd front
+npm start
