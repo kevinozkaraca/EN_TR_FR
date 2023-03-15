@@ -4,12 +4,13 @@ import Home from "./pages/Home";
 import Sentenses from "./pages/Sentenses";
 import Units from "./pages/Units";
 import Error from "./pages/Error";
+import Navigation from "./components/Navigation";
 
 function App() {
   return (
     <div className="App">
-      <h1>English - Türkçe - Français</h1>
       <BrowserRouter>
+        <Navigation />
         <Routes>
           <Route path="/" element={<Home />}></Route>
           <Route path="/sentences" element={<Sentenses />}></Route>
