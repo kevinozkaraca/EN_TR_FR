@@ -2,3 +2,7 @@
 
 cd front
 npm start
+
+Dans settings.json, rajouter :
+
+"emmet.includeLanguages": { "javascript": "javascriptreact" }, "emmet.triggerExpansionOnTab": true
