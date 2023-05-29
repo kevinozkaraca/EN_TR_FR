@@ -1,0 +1,648 @@
+{
+  "sentencesA1": [
+    {
+      "sentenceEN": "The club provides different activities such as tennis, swimming and golf",
+      "sentenceTR": "kulüp tenis, yüzme ve golf gibi farklı etkinlikler sağlar",
+      "sentenceFR": "Le club propose différentes activités tel que le tennis, la natation et le golf",
+      "sentenceAR": "يوفر النادي أنشطة مختلفة مثل التنس والسباحة والجولف",
+      "sentenceES": "El club ofrece diferentes actividades como tenis, natación y golf",
+      "sentenceRU": "Клуб предлагает различные виды деятельности, такие как теннис, плавание и гольф",
+      "sentenceCH": "俱乐部提供不同的活动，如网球，游泳和高尔夫球"
+    },
+    {
+      "sentenceEN": "They were having breakfast when i arrived home",
+      "sentenceTR": "eve vardığımda kahvati yapıyorlardı",
+      "sentenceFR": "Ils prenaient le petit déjeuner quand je suis arrivé à la maison",
+      "sentenceAR": "كانوا يتناولون الإفطار عندما وصلت إلى المنزل",
+      "sentenceES": "Estaban desayunando cuando llegué a casa",
+      "sentenceRU": "Они завтракали, когда я приехал домой",
+      "sentenceCH": "我到家的时候，他们正在吃早餐"
+    },
+    {
+      "sentenceEN": "She put her hands over her ears",
+      "sentenceTR": "ellerini kulaklarının üzerine koydu",
+      "sentenceFR": "Elle a mis ses mains sur ses oreilles",
+      "sentenceAR": "وضعت يديها على أذنيها",
+      "sentenceES": "Ella puso sus manos sobre sus orejas",
+      "sentenceRU": "Она положила руки на уши",
+      "sentenceCH": "她把手放在耳朵上"
+    },
+    {
+      "sentenceEN": "You should eat more fresh foods",
+      "sentenceTR": "daha fazla taze yiyecek yemelisin",
+      "sentenceFR": "Vous devriez manger plus d’aliments frais",
+      "sentenceAR": "يجب أن تأكل المزيد من الأطعمة الطازجة",
+      "sentenceES": "Deberías comer más alimentos frescos",
+      "sentenceRU": "Вы должны есть больше свежей пищи",
+      "sentenceCH": "你应该多吃新鲜食物"
+    },
+    {
+      "sentenceEN": "She wrote a new novel",
+      "sentenceTR": "yeni bir roman yazdı",
+      "sentenceFR": "Elle a écrit un nouveau roman",
+      "sentenceAR": "كتبت رواية جديدة",
+      "sentenceES": "Ella escribió una nueva novela",
+      "sentenceRU": "Она написала новый роман",
+      "sentenceCH": "她写了一本新小说"
+    },
+    {
+      "sentenceEN": "I missed the last bus",
+      "sentenceTR": "son otobüsü kaçırdım",
+      "sentenceFR": "J’ai raté le dernier bus",
+      "sentenceAR": "فاتني آخر حافلة",
+      "sentenceES": "Perdí el último autobús",
+      "sentenceRU": "Я пропустил последний автобус",
+      "sentenceCH": "我错过了最后一班公共汽车"
+    },
+    {
+      "sentenceEN": "She can write in arabic",
+      "sentenceTR": "Arapça yazabilir",
+      "sentenceFR": "Elle peut écrire en arabe",
+      "sentenceAR": "يمكنها الكتابة باللغة العربية",
+      "sentenceES": "Ella puede escribir en árabe",
+      "sentenceRU": "Она может писать по-арабски",
+      "sentenceCH": "她可以用阿拉伯语写"
+    },
+    {
+      "sentenceEN": "Teacher wrote the answers on the board",
+      "sentenceTR": "Öğretmen cevapları tahtaya yazdı",
+      "sentenceFR": "Le professeur a écrit les réponses sur le tableau",
+      "sentenceAR": "كتب المعلم الإجابات على السبورة",
+      "sentenceES": "El profesor escribió las respuestas en la pizarra",
+      "sentenceRU": "Учитель написал ответы на доске",
+      "sentenceCH": "老师把答案写在黑板上"
+    },
+    {
+      "sentenceEN": "She is an amazing person",
+      "sentenceTR": "O hariç bir insan",
+      "sentenceFR": "C'est une personne incroyable",
+      "sentenceAR": "إنها شخص مذهل",
+      "sentenceES": "Ella es una persona increíble",
+      "sentenceRU": "Она удивительный человек",
+      "sentenceCH": "她是一个了不起的人"
+    },
+    {
+      "sentenceEN": "They ate at the kitchen table",
+      "sentenceTR": "Mutfak masasında yediler",
+      "sentenceFR": "Ils sont à la table de la cuisine",
+      "sentenceAR": "أكلوا على طاولة المطبخ",
+      "sentenceES": "Ellos comieron en la mesa de la cocina",
+      "sentenceRU": "Они ели за кухонным столом",
+      "sentenceCH": "他们在厨房的桌子上吃饭"
+    },
+    {
+      "sentenceEN": "I will give you my adress and phone number",
+      "sentenceTR": "Sana adres ve telefon numaramı vereceğim",
+      "sentenceFR": "Je vais te donner mon adresse et mon numéro de téléphone",
+      "sentenceAR": "سأعطيك عنواني ورقم هاتفي",
+      "sentenceES": "Te daré mi dirección y número de teléfono",
+      "sentenceRU": "Я дам вам свой адрес и номер телефона",
+      "sentenceCH": "我会给你我的地址和电话号码"
+    },
+    {
+      "sentenceEN": "My sister went shopping in the afternoon",
+      "sentenceTR": "Kız Kardeşim öğleden sonra alışverişe gitti",
+      "sentenceFR": "Ma soeur est allée faire du shopping l'après-midi",
+      "sentenceAR": "ذهبت أختي للتسوق بعد الظهر",
+      "sentenceES": "Mi hermana fue de compras por la tarde",
+      "sentenceRU": "Моя сестра пошла по магазинам днем",
+      "sentenceCH": "我的妹妹下午去购物"
+    },
+    {
+      "sentenceEN": "June has 30 days",
+      "sentenceTR": "haziran 30 gündür",
+      "sentenceFR": "Juin a 30 jours",
+      "sentenceAR": "يونيو لديه 30 يوما",
+      "sentenceES": "Junio tiene 30 días",
+      "sentenceRU": "Июнь имеет 30 дней",
+      "sentenceCH": "六月有30天"
+    },
+    {
+      "sentenceEN": "We were in the same class at school",
+      "sentenceTR": "okulda aynı sınıftaydık",
+      "sentenceFR": "A l'ecole nous étions dans la même classe",
+      "sentenceAR": "كنا في نفس الفصل في المدرسة",
+      "sentenceES": "Estábamos en la misma clase en la escuela",
+      "sentenceRU": "Мы были в одном классе в школе",
+      "sentenceCH": "我们在学校里上同一班"
+    },
+    {
+      "sentenceEN": "How many books can i borrow ?",
+      "sentenceTR": "kaç kitap ödünç alabilirim ?",
+      "sentenceFR": "Combien de livres puis-je emprunter ?",
+      "sentenceAR": "كم كتاب يمكن أن أقترضه؟",
+      "sentenceES": "¿Cuántos libros puedo pedir prestados?",
+      "sentenceRU": "Сколько книг я могу одолжить?",
+      "sentenceCH": "我可以借多少本书？"
+    },
+    {
+      "sentenceEN": "James came from a poor family",
+      "sentenceTR": "James fakir bir aileden geliyordu",
+      "sentenceFR": "James venait d'une famille pauvre",
+      "sentenceAR": "جيمس جاء من عائلة فقيرة",
+      "sentenceES": "James vino de una familia pobre",
+      "sentenceRU": "Джеймс приехал из бедной семьи",
+      "sentenceCH": "詹姆斯来自一个贫穷的家庭"
+    },
+    {
+      "sentenceEN": "A good education is not cheap",
+      "sentenceTR": "Iyi bir eğitim ucuz değildir",
+      "sentenceFR": "Une bonne éducation n'est pas bon marché",
+      "sentenceAR": "التعليم الجيد ليس رخيصا",
+      "sentenceES": "Una buena educación no es barata",
+      "sentenceRU": "Хорошее образование не дешево",
+      "sentenceCH": "良好的教育不便宜"
+    },
+    {
+      "sentenceEN": "I need to take fresh air",
+      "sentenceTR": "Temiz hava almaya ihtiyacım var",
+      "sentenceFR": "J'ai besoin de prendre l'air frais",
+      "sentenceAR": "أحتاج إلى أخذ الهواء النقي",
+      "sentenceES": "Necesito tomar aire fresco",
+      "sentenceRU": "Мне нужно принять свежий воздух",
+      "sentenceCH": "我需要呼吸新鲜空气"
+    },
+    {
+      "sentenceEN": "We live in a big city",
+      "sentenceTR": "Büyük bir şehirde yaşıyoruz",
+      "sentenceFR": "Nous vivons dans une grande ville",
+      "sentenceAR": "نحن نعيش في مدينة كبيرة",
+      "sentenceES": "Vivimos en una gran ciudad",
+      "sentenceRU": "Мы живем в большом городе",
+      "sentenceCH": "我们住在一个大城市"
+    },
+    {
+      "sentenceEN": "She went into the bedroom and cried",
+      "sentenceTR": "O yatak odasına girdi ve ağladı",
+      "sentenceFR": "Elle est allée dans la chambre et a pleuré",
+      "sentenceAR": "ذهبت إلى غرفة النوم وبكت",
+      "sentenceES": "Entró en el dormitorio y lloró",
+      "sentenceRU": "Она вошла в спальню и заплакала",
+      "sentenceCH": "她走进卧室哭了"
+    },
+    {
+      "sentenceEN": "He picked up his guitar and played a beautiful melody",
+      "sentenceTR": "O gitarını alıp güzel bir melodi çaldı",
+      "sentenceFR": "Il a pris sa guitare et a joué une belle mélodie",
+      "sentenceAR": "التقط غيتاره وعزف لحنا جميلا",
+      "sentenceES": "Recogió su guitarra y tocó una hermosa melodía",
+      "sentenceRU": "Он взял свою гитару и сыграл прекрасную мелодию",
+      "sentenceCH": "他拿起他的吉他弹奏了一首美妙的旋律"
+    },
+
+    {
+      "sentenceEN": "She opened the book and started reading the first chapter",
+      "sentenceTR": "O kitabı açtı ve ilk bölümü okumaya başladı",
+      "sentenceFR": "Elle a ouvert le livre et a commencé à lire le premier chapitre",
+      "sentenceAR": "فتحت الكتاب وبدأت في قراءة الفصل الأول",
+      "sentenceES": "Abrió el libro y comenzó a leer el primer capítulo",
+      "sentenceRU": "Она открыла книгу и начала читать первую главу",
+      "sentenceCH": "她打开书开始读第一章"
+    },
+
+    {
+      "sentenceEN": "They went to the beach and swam in the ocean",
+      "sentenceTR": "Plaja gittiler ve denizde yüzdüler",
+      "sentenceFR": "Ils sont allés à la plage et ont nagé dans l'océan",
+      "sentenceAR": "ذهبوا إلى الشاطئ وسبحوا في المحيط",
+      "sentenceES": "Fueron a la playa y nadaron en el océano",
+      "sentenceRU": "Они пошли на пляж и плавали в океане",
+      "sentenceCH": "他们去海滩游泳在海洋"
+    },
+
+    {
+      "sentenceEN": "He woke up early and went for a run in the park",
+      "sentenceTR": "Erken kalktı ve parkta koşuya çıktı",
+      "sentenceFR": "Il s'est réveillé tôt et est allé courir dans le parc",
+      "sentenceAR": "استيقظ مبكرا وذهب للجري في الحديقة",
+      "sentenceES": "Se despertó temprano y salió a correr al parque",
+      "sentenceRU": "Он проснулся рано и пошел бегать в парк",
+      "sentenceCH": "他早起去公园跑步"
+    },
+
+    {
+      "sentenceEN": "She sat down at the piano and played a few notes",
+      "sentenceTR": "O piyanonun başına oturdu ve birkaç not çaldı",
+      "sentenceFR": "Elle s'est assise au piano et a joué quelques notes",
+      "sentenceAR": "جلست على البيانو وعزفت عددا قليلا من الملاحظات",
+      "sentenceES": "Se sentó al piano y tocó algunas notas",
+      "sentenceRU": "Она села за пианино и сыграла несколько нот",
+      "sentenceCH": "她坐在钢琴前弹了几个音符"
+    },
+    {
+      "sentenceEN": "He walked into the kitchen and made himself a cup of coffee",
+      "sentenceTR": "O mutfağa girdi ve kendine bir fincan kahve yaptı",
+      "sentenceFR": "Il est entré dans la cuisine et s'est préparé une tasse de café",
+      "sentenceAR": "دخل المطبخ وصنع لنفسه فنجان قهوة",
+      "sentenceES": "Entró en la cocina y se hizo una taza de café",
+      "sentenceRU": "Он вошел на кухню и сделал себе чашку кофе",
+      "sentenceCH": "他走进厨房给自己泡了一杯咖啡"
+    },
+
+    {
+      "sentenceEN": "She got in the car and drove to the grocery store",
+      "sentenceTR": "Arabaya bindi ve markete gitti",
+      "sentenceFR": "Elle est montée dans la voiture et a conduit jusqu'au supermarché",
+      "sentenceAR": "دخلت السيارة وقادت إلى متجر البقالة",
+      "sentenceES": "Se subió al coche y condujo hasta el supermercado",
+      "sentenceRU": "Она села в машину и поехала в продуктовый магазин",
+      "sentenceCH": "她上了车开到杂货店"
+    },
+    {
+      "sentenceEN": "They met at the restaurant and had a delicious meal",
+      "sentenceTR": "Restoranda buluştular ve lezzetli bir yemek yediler",
+      "sentenceFR": "Ils se sont retrouvés au restaurant et ont dégusté un délicieux repas",
+      "sentenceAR": "التقوا في المطعم وتناولوا وجبة لذيذة",
+      "sentenceES": "Se encontraron en el restaurante y tuvieron una deliciosa comida",
+      "sentenceRU": "Они встретились в ресторане и пообедали",
+      "sentenceCH": "他们在餐厅见面吃了一顿美味的饭菜"
+    },
+    {
+      "sentenceEN": "He turned on the TV and watched the news",
+      "sentenceTR": "Televizyonu açtı ve haberleri izledi",
+      "sentenceFR": "Il a allumé la télévision et a regardé les informations",
+      "sentenceAR": "شغل التلفزيون وشاهد الأخبار",
+      "sentenceES": "Encendió la televisión y vio las noticias",
+      "sentenceRU": "Он включил телевизор и смотрел новости",
+      "sentenceCH": "他打开电视看新闻"
+    },
+    {
+      "sentenceEN": "She opened the window and let in some fresh air",
+      "sentenceTR": "Pencereyi açtı ve taze hava girdi içeri",
+      "sentenceFR": "Elle a ouvert la fenêtre et a laissé entrer de l'air frais",
+      "sentenceAR": "فتحت النافذة ودعت بعض الهواء النقي",
+      "sentenceES": "Abrió la ventana y dejó entrar un poco de aire fresco",
+      "sentenceRU": "Она открыла окно и впустила свежий воздух",
+      "sentenceCH": "她打开窗户让新鲜空气进来"
+    },
+    {
+      "sentenceEN": "She feeds chickens in the back yard",
+      "sentenceTR": "Arka bahçede tavukları besler",
+      "sentenceFR": "Elle nourrit les poulets dans la cour arrière",
+      "sentenceAR": "إنها تطعم الدجاج في الفناء الخلفي",
+      "sentenceES": "Ella alimenta a los pollos en el patio trasero",
+      "sentenceRU": "Она кормит кур во дворе",
+      "sentenceCH": "她在后院喂鸡"
+    },
+    {
+      "sentenceEN": "I Am Trying to eat more healtly",
+      "sentenceTR": "Daha sağlıklı yemek yemeye çalışıyorum",
+      "sentenceFR": "J'essaie de manger plus sainement",
+      "sentenceAR": "أحاول أكل المزيد من الصحة",
+      "sentenceES": "Estoy tratando de comer más saludablemente",
+      "sentenceRU": "Я пытаюсь есть более здорово",
+      "sentenceCH": "我试着吃得更健康"
+    },
+    {
+      "sentenceEN": "Elections take place every four years",
+      "sentenceTR": "Seçimler her dört yılda bir yapılır",
+      "sentenceFR": "Les élections ont lieu tous les quatre ans",
+      "sentenceAR": "تجري الانتخابات كل أربع سنوات",
+      "sentenceES": "Las elecciones se celebran cada cuatro años",
+      "sentenceRU": "Выборы проходят каждые четыре года",
+      "sentenceCH": "选举每四年举行一次"
+    },
+    {
+      "sentenceEN": "I have to go to the dentist",
+      "sentenceTR": "Dişçiye gitmek zorundayım",
+      "sentenceFR": "Je dois aller chez le dentiste",
+      "sentenceAR": "يجب أن أذهب إلى طبيب الأسنان",
+      "sentenceES": "Tengo que ir al dentista",
+      "sentenceRU": "Мне нужно пойти к дантисту",
+      "sentenceCH": "我必须去看牙医"
+    },
+    {
+      "sentenceEN": "Ann coked us a really nice dinner",
+      "sentenceTR": "Ann bize gerçekten güzel bir akşam yemeği pişirdi",
+      "sentenceFR": "Ann nous a cuisiné un très bon dîner",
+      "sentenceAR": "أن طهي لنا عشاء لطيف حقا",
+      "sentenceES": "Ann nos cocinó una cena realmente agradable",
+      "sentenceRU": "Анн приготовила нам действительно хороший ужин",
+      "sentenceCH": "安煮了一顿非常好的晚餐"
+    },
+    {
+      "sentenceEN": "He is tall and thin",
+      "sentenceTR": "O uzun boylu ve zayıf",
+      "sentenceFR": "Il est grand et mince",
+      "sentenceAR": "انه طويل ونحيف",
+      "sentenceES": "Él es alto y delgado",
+      "sentenceRU": "Он высокий и худой",
+      "sentenceCH": "他又高又瘦"
+    },
+    {
+      "sentenceEN": "The sun was shining and the birds were singing",
+      "sentenceTR": "Güneş parlıyordu ve kuşlar şarkı söylüyordu",
+      "sentenceFR": "Le soleil brillait et les oiseaux chantaient",
+      "sentenceAR": "كانت الشمس تشرق والطيور تغني",
+      "sentenceES": "El sol brillaba y los pájaros cantaban",
+      "sentenceRU": "Солнце светило, и птицы пели",
+      "sentenceCH": "太阳照耀着，鸟儿在唱歌"
+    },
+    {
+      "sentenceEN": "I really enjoyed watching the film again",
+      "sentenceTR": "Filmi tekrar izlemekten gerçekten eğlendim",
+      "sentenceFR": "J'ai vraiment apprécié de regarder le film à nouveau",
+      "sentenceAR": "لقد استمتعت حقا بمشاهدة الفيلم مرة أخرى",
+      "sentenceES": "Realmente disfruté viendo la película de nuevo",
+      "sentenceRU": "Мне очень понравилось смотреть фильм снова",
+      "sentenceCH": "我真的很喜欢再次看电影"
+    },
+    {
+      "sentenceEN": "Reaching the summit is not an easy task",
+      "sentenceTR": "Zirveye ulaşmak kolay bir iş (görev) değil",
+      "sentenceFR": "Atteindre le sommet n'est pas une tâche facile",
+      "sentenceAR": "الوصول إلى القمة ليس بالأمر السهل",
+      "sentenceES": "Alcanzar la cima no es una tarea fácil",
+      "sentenceRU": "Достичь вершины не так просто",
+      "sentenceCH": "到达山顶并不容易"
+    },
+    {
+      "sentenceEN": "Did you hear the interview on the radio?",
+      "sentenceTR": "Radyoda röportajı duydun mu?",
+      "sentenceFR": "Avez-vous entendu l'interview à la radio?",
+      "sentenceAR": "هل سمعت المقابلة على الراديو؟",
+      "sentenceES": "¿Escuchaste la entrevista en la radio?",
+      "sentenceRU": "Вы слышали интервью по радио?",
+      "sentenceCH": "你听到广播上的采访了吗？"
+    },
+    {
+      "sentenceEN": "He is a student at the university",
+      "sentenceTR": "O üniversitede öğrenci",
+      "sentenceFR": "Il est étudiant à l'université",
+      "sentenceAR": "هو طالب في الجامعة",
+      "sentenceES": "Él es un estudiante en la universidad",
+      "sentenceRU": "Он студент университета",
+      "sentenceCH": "他是大学生"
+    },
+    {
+      "sentenceEN": "Barcelona is always full of tourists in summer",
+      "sentenceTR": "Barcelona yazın her zaman turistlerle doludur",
+      "sentenceFR": "Barcelone est toujours pleine de touristes en été",
+      "sentenceAR": "برشلونة مليئة دائما بالسياح في الصيف",
+      "sentenceES": "Barcelona siempre está llena de turistas en verano",
+      "sentenceRU": "Барселона всегда полна туристов летом",
+      "sentenceCH": "巴塞罗那夏天总是挤满了游客"
+    },
+    {
+      "sentenceEN": "Frank spends all day playing computer games",
+      "sentenceTR": "Frank bütün gün bilgisayar oyunları oynuyor",
+      "sentenceFR": "Frank passe toute la journée à jouer à des jeux vidéo",
+      "sentenceAR": "فرانك يقضي كل يوم في لعب ألعاب الكمبيوتر",
+      "sentenceES": "Frank pasa todo el día jugando a juegos de ordenador",
+      "sentenceRU": "Фрэнк целый день проводит за компьютерными играми",
+      "sentenceCH": "弗兰克整天都在玩电脑游戏"
+    },
+    {
+      "sentenceEN": "I couldn't hear anything because of the noise",
+      "sentenceTR": "Gürültüden dolayı hiçbir şey duyamadım",
+      "sentenceFR": "Je n'ai rien entendu à cause du bruit",
+      "sentenceAR": "لم أستطع سماع أي شيء بسبب الضوضاء",
+      "sentenceES": "No pude oír nada por el ruido",
+      "sentenceRU": "Я ничего не слышал из-за шума",
+      "sentenceCH": "因为噪音我什么都听不见"
+    },
+    {
+      "sentenceEN": "My sister failed the college entrance exam",
+      "sentenceTR": "Kız kardeşim üniversite giriş sınavını geçemedi",
+      "sentenceFR": "Ma sœur a échoué à l'examen d'entrée à l'université",
+      "sentenceAR": "لقد فشلت أختي في امتحان القبول في الكلية",
+      "sentenceES": "Mi hermana no aprobó el examen de ingreso a la universidad",
+      "sentenceRU": "Моя сестра не сдала вступительный экзамен в колледж",
+      "sentenceCH": "我妹妹没通过大学入学考试"
+    },
+    {
+      "sentenceEN": "I wish we could bring dinosaurs back to life",
+      "sentenceTR": "Dinozorları hayata geri getirebilseydik keşke",
+      "sentenceFR": "J'aimerais que nous puissions ramener les dinosaures à la vie",
+      "sentenceAR": "أتمنى أن نستطيع إعادة الديناصورات إلى الحياة",
+      "sentenceES": "Ojalá pudiéramos traer de vuelta a los dinosaurios a la vida",
+      "sentenceRU": "Я бы хотел, чтобы мы могли вернуть динозавров к жизни",
+      "sentenceCH": "我希望我们能把恐龙带回到生活中"
+    },
+    {
+      "sentenceEN": "The next train to London is at eight o'clock",
+      "sentenceTR": "Londra'ya giden sonraki tren saat sekizde",
+      "sentenceFR": "Le prochain train pour Londres est à huit heures",
+      "sentenceAR": "القطار التالي إلى لندن في الساعة الثامنة",
+      "sentenceES": "El próximo tren a Londres es a las ocho en punto",
+      "sentenceRU": "Следующий поезд в Лондон в восемь часов",
+      "sentenceCH": "去伦敦的下一班火车是八点钟"
+    },
+    {
+      "sentenceEN": "We listened politely to his stories",
+      "sentenceTR": "Hikayelerini kibarca dinledik",
+      "sentenceFR": "Nous avons écouté poliment ses histoires",
+      "sentenceAR": "استمعنا بأدب إلى قصصه",
+      "sentenceES": "Escuchamos educadamente sus historias",
+      "sentenceRU": "Мы вежливо выслушали его истории",
+      "sentenceCH": "我们礼貌地听他的故事"
+    },
+    {
+      "sentenceEN": "You can take a boat trip along the coast",
+      "sentenceTR": "Kıyı boyunca tekne turu yapabilirsiniz",
+      "sentenceFR": "Vous pouvez faire une excursion en bateau le long de la côte",
+      "sentenceAR": "يمكنك أن تأخذ رحلة بالقارب على طول الساحل",
+      "sentenceES": "Puedes hacer un viaje en barco a lo largo de la costa",
+      "sentenceRU": "Вы можете совершить поездку на лодке вдоль побережья",
+      "sentenceCH": "你可以沿着海岸乘船旅行"
+    },
+    {
+      "sentenceEN": "I bought some new clothes yesterday",
+      "sentenceTR": "Dün yeni kıyafetler aldım",
+      "sentenceFR": "J'ai acheté de nouveaux vêtements hier",
+      "sentenceAR": "اشتريت بعض الملابس الجديدة أمس",
+      "sentenceES": "Compré ropa nueva ayer",
+      "sentenceRU": "Я купил вчера новую одежду",
+      "sentenceCH": "我昨天买了些新衣服"
+    },
+    {
+      "sentenceEN": "John began to explain his plan of action to the group",
+      "sentenceTR": "John eylem planını gruba açıklamaya başladı",
+      "sentenceFR": "John a commencé à expliquer son plan d'action au groupe",
+      "sentenceAR": "بدأ جون في شرح خطته للعمل للمجموعة",
+      "sentenceES": "John comenzó a explicar su plan de acción al grupo",
+      "sentenceRU": "Джон начал объяснять свой план действий группе",
+      "sentenceCH": "约翰开始向小组解释他的行动计划"
+    },
+    {
+      "sentenceEN": "War is always a bad thing",
+      "sentenceTR": "Savaş her zaman kötü bir şeydir",
+      "sentenceFR": "La guerre est toujours une mauvaise chose",
+      "sentenceAR": "الحرب شيء سيء دائما",
+      "sentenceES": "La guerra es siempre una mala cosa",
+      "sentenceRU": "Война - всегда плохая вещь",
+      "sentenceCH": "战争总是一件坏事"
+    },
+    {
+      "sentenceEN": "The scenery here is so beautiful",
+      "sentenceTR": "Buradaki manzara çok güzel",
+      "sentenceFR": "Le paysage ici est si beau",
+      "sentenceAR": "المناظر الطبيعية هنا جميلة جدا",
+      "sentenceES": "El paisaje aquí es tan hermoso",
+      "sentenceRU": "Здесь так красиво",
+      "sentenceCH": "这里的风景是如此美丽"
+    },
+    {
+      "sentenceEN": "There was a long table covered with a white tablecloth",
+      "sentenceTR": "Beyaz bir masa örtüsüyle kaplı uzun bir masa vardı",
+      "sentenceFR": "Il y avait une longue table couverte d'une nappe blanche",
+      "sentenceAR": "كان هناك طاولة طويلة مغطاة بمفرش أبيض",
+      "sentenceES": "Había una larga mesa cubierta con un mantel blanco",
+      "sentenceRU": "Там был длинный стол, покрытый белой скатертью",
+      "sentenceCH": "有一张长桌子上面盖着一张白色桌布"
+    },
+    {
+      "sentenceEN": "I have to wear a shirt and tie to work",
+      "sentenceTR": "İşe gömlek ve kravat giymek zorundayım",
+      "sentenceFR": "Je dois porter une chemise et une cravate pour travailler",
+      "sentenceAR": "يجب أن أرتدي قميص وربطة عنق للعمل",
+      "sentenceES": "Tengo que usar una camisa y una corbata para trabajar",
+      "sentenceRU": "Я должен носить рубашку и галстук на работу",
+      "sentenceCH": "我必须穿衬衫和领带去工作"
+    },
+    {
+      "sentenceEN": "In the evenings, I like to relax and watch television",
+      "sentenceTR": "Akşamları rahatlamayı ve televizyon izlemeyi severim",
+      "sentenceFR": "Le soir, j'aime me détendre et regarder la télévision",
+      "sentenceAR": "في المساء ، أحب الاسترخاء ومشاهدة التلفزيون",
+      "sentenceES": "Por las noches, me gusta relajarme y ver la televisión",
+      "sentenceRU": "Вечером я люблю расслабиться и посмотреть телевизор",
+      "sentenceCH": "晚上，我喜欢放松身心，看电视"
+    },
+    {
+      "sentenceEN": "Dictionaries are usually printed on thin paper",
+      "sentenceTR": "Sözlükler genellikle ince kağıda basılır",
+      "sentenceFR": "Les dictionnaires sont généralement imprimés sur du papier fin",
+      "sentenceAR": "تطبع القواميس عادة على ورق رقيق",
+      "sentenceES": "Los diccionarios generalmente se imprimen en papel delgado",
+      "sentenceRU": "Словари обычно печатаются на тонкой бумаге",
+      "sentenceCH": "词典通常印在薄纸上"
+    },
+    {
+      "sentenceEN": "Children grow up quickly",
+      "sentenceTR": "Çocuklar hızlı büyür",
+      "sentenceFR": "Les enfants grandissent vite",
+      "sentenceAR": "الأطفال يكبرون بسرعة",
+      "sentenceES": "Los niños crecen rápido",
+      "sentenceRU": "Дети быстро растут",
+      "sentenceCH": "孩子们长得很快"
+    },
+    {
+      "sentenceEN": "It started to rain and I put up my umbrella",
+      "sentenceTR": "Yağmur yağmaya başladı ve şemsiyemi açtım",
+      "sentenceFR": "Il a commencé à pleuvoir et j'ai sorti mon parapluie",
+      "sentenceAR": "بدأت الأمطار وأنا أرفع مظلتي",
+      "sentenceES": "Empezó a llover y saqué mi paraguas",
+      "sentenceRU": "Начался дождь, и я поднял зонтик",
+      "sentenceCH": "开始下雨了，我撑起了伞"
+    },
+    {
+      "sentenceEN": "Everything in the room was incredibly neat and tidy",
+      "sentenceTR": "Odadaki her şey inanılmaz derecede düzenli ve temizdi",
+      "sentenceFR": "Tout dans la pièce était incroyablement propre et bien rangé",
+      "sentenceAR": "كان كل شيء في الغرفة مرتبًا بشكل لا يصدق ومرتبًا",
+      "sentenceES": "Todo en la habitación estaba increíblemente limpio y ordenado",
+      "sentenceRU": "Все в комнате было невероятно аккуратно и аккуратно",
+      "sentenceCH": "房间里的一切都非常整洁"
+    },
+    {
+      "sentenceEN": "The Committee will meet next week",
+      "sentenceTR": "Komite gelecek hafta toplanacak",
+      "sentenceFR": "Le Comité se réunira la semaine prochaine",
+      "sentenceAR": "سيجتمع اللجنة الأسبوع المقبل",
+      "sentenceES": "El Comité se reunirá la próxima semana",
+      "sentenceRU": "Комитет встретится на следующей неделе",
+      "sentenceCH": "委员会将在下周举行会议"
+    },
+    {
+      "sentenceEN": "The Magazine refused to print his article",
+      "sentenceTR": "Dergi makalesini basmayı reddetti",
+      "sentenceFR": "Le magazine a refusé d'imprimer son article",
+      "sentenceAR": "رفضت المجلة طباعة مقاله",
+      "sentenceES": "La revista se negó a imprimir su artículo",
+      "sentenceRU": "Журнал отказался печатать его статью",
+      "sentenceCH": "杂志拒绝刊登他的文章"
+    },
+    {
+      "sentenceEN": "Don't forget to bring your books with you",
+      "sentenceTR": "Kitaplarınızı yanınıza getirmeyi unutmayın",
+      "sentenceFR": "N'oubliez pas d'apporter vos livres avec vous",
+      "sentenceAR": "لا تنسى إحضار كتبك معك",
+      "sentenceES": "No olvides traer tus libros contigo",
+      "sentenceRU": "Не забудьте взять с собой книги",
+      "sentenceCH": "别忘了带上你的书"
+    },
+    {
+      "sentenceEN": "It's good to meet people from different parts of the country",
+      "sentenceTR": "Ülkenin farklı bölgelerinden insanlarla tanışmak iyi",
+      "sentenceFR": "C'est bien de rencontrer des gens de différentes régions du pays",
+      "sentenceAR": "من الجيد أن تلتقي بأشخاص من أجزاء مختلفة من البلاد",
+      "sentenceES": "Es bueno conocer gente de diferentes partes del país",
+      "sentenceRU": "Приятно встречать людей из разных частей страны",
+      "sentenceCH": "见到来自该国不同地区的人很好"
+    },
+    {
+      "sentenceEN": "They visited the museum last week",
+      "sentenceTR": "Geçen hafta müzeyi ziyaret ettiler",
+      "sentenceFR": "Ils ont visité le musée la semaine dernière",
+      "sentenceAR": "زاروا المتحف الأسبوع الماضي",
+      "sentenceES": "Visitaron el museo la semana pasada",
+      "sentenceRU": "На прошлой неделе они посетили музей",
+      "sentenceCH": "他们上周参观了博物馆"
+    },
+    {
+      "sentenceEN": "I couldn't sleep because of the noise outside",
+      "sentenceTR": "Dışarıdaki gürültüden dolayı uyuyamadım",
+      "sentenceFR": "Je ne pouvais pas dormir à cause du bruit dehors",
+      "sentenceAR": "لم أستطع النوم بسبب الضوضاء خارج",
+      "sentenceES": "No pude dormir por el ruido afuera",
+      "sentenceRU": "Я не мог спать из-за шума снаружи",
+      "sentenceCH": "我无法入睡，因为外面很吵"
+    },
+    {
+      "sentenceEN": "It has been a very mild autumn this year",
+      "sentenceTR": "Bu yıl çok ılık bir sonbahar oldu",
+      "sentenceFR": "Cet automne a été très doux cette année",
+      "sentenceAR": "كان هذا الخريف لطيفًا جدًا هذا العام",
+      "sentenceES": "Ha sido un otoño muy suave este año",
+      "sentenceRU": "В этом году была очень мягкая осень",
+      "sentenceCH": "今年的秋天非常温和"
+    },
+    {
+      "sentenceEN": "She is one of the country's leading actresses",
+      "sentenceTR": "O, ülkenin önde gelen aktrislerinden biridir",
+      "sentenceFR": "Elle est l'une des principales actrices du pays",
+      "sentenceAR": "إنها واحدة من أبرز الممثلات في البلاد",
+      "sentenceES": "Ella es una de las principales actrices del país",
+      "sentenceRU": "Она одна из ведущих актрис страны",
+      "sentenceCH": "她是该国最杰出的女演员之一"
+    },
+    {
+      "sentenceEN": "She can draw a house with her eyes closed",
+      "sentenceTR": "Gözleri kapalı bir ev çizebilir",
+      "sentenceFR": "Elle peut dessiner une maison les yeux fermés",
+      "sentenceAR": "يمكنها رسم منزل بعينيها مغلقتين",
+      "sentenceES": "Ella puede dibujar una casa con los ojos cerrados",
+      "sentenceRU": "Она может нарисовать дом с закрытыми глазами",
+      "sentenceCH": "她可以闭着眼睛画房子"
+    },
+    {
+      "sentenceEN": "The obesity rate amoung adults has actually declined in recent years",
+      "sentenceTR": "Yetişkinler arasındaki obezite oranı son yıllarda aslında azaldı",
+      "sentenceFR": "Le taux d'obésité chez les adultes a en fait diminué ces dernières années",
+      "sentenceAR": "في الواقع انخفض معدل السمنة بين البالغين في السنوات الأخيرة",
+      "sentenceES": "La tasa de obesidad entre los adultos ha disminuido en realidad en los últimos años",
+      "sentenceRU": "Фактически, в последние годы уровень ожирения среди взрослых снизился",
+      "sentenceCH": "成年人中的肥胖率实际上在最近几年有所下降"
+    },
+    {
+      "sentenceEN": "I'm not sure if I have enough time",
+      "sentenceTR": "Yeterli zamanım olup olmadığından emin değilim",
+      "sentenceFR": "Je ne suis pas sûr d'avoir assez de temps",
+      "sentenceAR": "لست متأكدًا مما إذا كان لدي وقت كافٍ",
+      "sentenceES": "No estoy seguro si tengo suficiente tiempo",
+      "sentenceRU": "Я не уверен, что у меня достаточно времени",
+      "sentenceCH": "我不确定我是否有足够的时间"
+    }
+  ]
+}
